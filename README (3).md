@@ -13,7 +13,6 @@ Doc Rush - [@docrush](https://github.com/docrush/MIST-4610-Group-1-Telehealth )
 
 Violet Sofish - [@VioletSofish](https://github.com/VioletSofish/4610-Group-1-project#4610-group-1-project )
 
-<img width="1734" height="1240" alt="image" src="https://github.com/user-attachments/assets/cb0b9822-4d2e-424c-9459-e6eb9ac0e791" />
 
 ## Problem Description:
 We are a telehealth patient & provider portal focused on managing virtual clinic throughput and insurance reimbursement. We are responsible for making and facilitating appointments, patient-physician communications, and prescriptions. Physicians can have multiple specialties, appointments have a status, and encounter status and insurance claim payments are linked.
